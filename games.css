@@ -1,0 +1,77 @@
+.head {
+	background-color: #166687;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.7);
+	font-family: 'Fredoka One', cursive;
+}
+
+body {
+	margin: 0;
+	background-color: #02131a;
+}
+
+p {
+	text-shadow: 1px 4px 2px rgba(255,255,255,0.5);
+
+}
+#colone {
+	height: 495px;
+	padding-top: 10px;
+	margin-left: 100px;
+	border: 2px solid white;
+}
+
+#coltwo {
+	height: 495px;
+	border: 2px solid white;
+
+}
+
+.l {
+	color: white;
+	font-size: 4rem;
+	border: 2px solid white;
+	margin: 0;
+}
+
+.p {
+	padding-top: 10px;
+	margin-top: 10px;
+	text-transform: uppercase;
+	font-weight: 500;
+}
+#imp {
+	font-family: "pacifico";
+	height: 495px;
+	width: 10px;
+	color: white;
+
+}
+#stripe {
+	background-color: white;
+	height: 20px;
+}
+
+#strip {
+	background-color: white;
+	height: 495px;
+	width: 10px;
+}
+.k {
+	height: 100px;
+	margin: 12px;
+	background-color: green;
+	transition: all 2.0s;
+}
+
+span {
+	text-transform: uppercase;
+}
+
+.hold {
+	background-color: #46a1c7;
+	color: white;
+}
